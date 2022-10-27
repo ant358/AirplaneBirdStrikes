@@ -1,0 +1,9 @@
+*.csv
+venv/
+*.html
+*.json
+*.zip
+.ipynb_checkpoints/
+*.pyc
+.vscode/
+output/
