@@ -1,0 +1,13 @@
+setuptools
+ipykernel
+numpy
+pandas
+flake8
+plotly
+seaborn
+scikit-learn
+statsmodels
+matplotlib
+pandas-profiling
+nbformat
+ipywidgets
