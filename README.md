@@ -1,7 +1,7 @@
 # Airplane Bird Strikes - Data Science Challenge  
 Data Science Challenge to predict airplane bird strike risk using logistic regression   
 ## Task based on a hypothetical scenario: Analysis of Airline incidents caused by birds 
-As a Data Science consultant working for "Data Airlines", you have been asked to help the team with the analysis of the incident data. The dataset contains records of aircraft incidents caused by wild birds. 
+As a Data Science consultant working for "Network Airlines", you have been asked to help the team with the analysis of the incident data. The dataset contains records of aircraft incidents caused by wild birds. 
 
 Your task is to explain the data selection and analysis approach you have taken in the process of developing a machine learning model to predict a collision ("INDICATED_DAMAGE" column) using either logistic or linear regression. The selection of the regression and attributes is yours.
 
