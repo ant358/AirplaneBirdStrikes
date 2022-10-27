@@ -34,4 +34,5 @@ You will only work with a single CSV file (`strike_reports.csv`) and the accompa
 
 Please let us know if you need any further clarification.
 
-## The Repo Contents are my answer to the challenge from 2021
+## The Repo Contents are my answer to the challenge from early 2022  
+There is a pdf of slides that were used to present the results and a Jupyter notebook showing how I got the results. 
