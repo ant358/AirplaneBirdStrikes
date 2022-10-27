@@ -28,6 +28,8 @@ You have 3 days to complete the task.
 ## Data 
 You will only work with a single CSV file (`strike_reports.csv`) and the accompanying metadata description (`column_description.csv`).
 
+[The data is to big for GitHub and can be found here](https://drive.google.com/file/d/1SZpUuzTmm2nEfg60e9UlbiKS5EDf9RpU/view?usp=sharing)   
+
 ## Questions?
 
 Please let us know if you need any further clarification.
